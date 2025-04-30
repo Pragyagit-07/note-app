@@ -28,7 +28,9 @@ A simple note taking application built with react. It allows user to add, view a
   ```
 
   # Folder Structure
+  
   ```bash
+  
   Frontend Assignment
 |  note-app/
 │
@@ -49,6 +51,6 @@ A simple note taking application built with react. It allows user to add, view a
 ├── .gitignore
 ├── package.json
 └── README.md          
-```bash
+```
 
 
